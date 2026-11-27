@@ -1,0 +1,5 @@
+textual>=0.86
+httpx>=0.27
+
+[dev]
+pytest>=8
