@@ -30,7 +30,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com
+git clone [https://github.com](https://github.com/gamzat-guseinov/omniroute-ai-idle)
 cd omniroute-ai-idle
 chmod +x run.sh
 ```
